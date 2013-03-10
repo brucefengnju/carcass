@@ -1,0 +1,13 @@
+{
+  "name": "carcass-logger",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+	"fluent-logger":"0.2.0",
+    "logg4js":"*"
+  }
+}

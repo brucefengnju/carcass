@@ -6,8 +6,9 @@
     "start": "node app"
   },
   "dependencies": {
+    "carcass":"*",
     "express": "3.1.0",
 	"fluent-logger":"0.2.0",
-    "logg4js":"*"
+    "log4js":"*"
   }
 }
